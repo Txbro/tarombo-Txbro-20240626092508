@@ -1092,6 +1092,19 @@
           "ref": "I167*0acf1386-e56e-4e86-a430-ea23a3cfe431"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I168*9d7e92e2-dc83-4e81-a033-fce90f2f1360"
+        }
+      ],
+      "id": "F56*3b35181b-adee-4d0a-a382-9ad5ddfad8cf",
+      "wifeRefs": [
+        {
+          "ref": "I169*1327fd36-1134-4301-b0fe-78d3d5b463ac"
+        }
+      ]
     }
   ],
   "head": {
@@ -4516,6 +4529,11 @@
           "ref": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
         }
       ],
+      "fams": [
+        {
+          "ref": "F56*3b35181b-adee-4d0a-a382-9ad5ddfad8cf"
+        }
+      ],
       "id": "I168*9d7e92e2-dc83-4e81-a033-fce90f2f1360",
       "names": [
         {
@@ -4526,6 +4544,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F56*3b35181b-adee-4d0a-a382-9ad5ddfad8cf"
+        }
+      ],
+      "id": "I169*1327fd36-1134-4301-b0fe-78d3d5b463ac",
+      "names": [
+        {
+          "value": "Sariani /Damanik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
