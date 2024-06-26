@@ -1082,6 +1082,9 @@
         },
         {
           "ref": "I170*fb41eb5e-8216-4756-9d03-799f20c76374"
+        },
+        {
+          "ref": "I172*f4902e78-5e67-4a76-ab9e-df332a5cc1aa"
         }
       ],
       "husbandRefs": [
@@ -4622,6 +4625,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
+        }
+      ],
+      "id": "I172*f4902e78-5e67-4a76-ab9e-df332a5cc1aa",
+      "names": [
+        {
+          "value": "Tiomsi /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
