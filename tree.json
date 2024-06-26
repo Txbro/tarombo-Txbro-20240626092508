@@ -1071,6 +1071,19 @@
           "ref": "I162*8fce107a-e2c9-4fa1-8f90-eca1019d8833"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I25*dcf257e9-45fc-43e9-8452-456b19fcac3b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I166*dd1d0347-a26d-4d73-82a8-37e8e0aaa18a"
+        }
+      ],
+      "id": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
     }
   ],
   "head": {
@@ -1628,6 +1641,11 @@
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
+        }
+      ],
       "fams": [
         {
           "ref": "F8*78b5496e-0e8a-4c66-9c5b-75f793a49342"
@@ -4435,6 +4453,29 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
+        }
+      ],
+      "id": "I166*dd1d0347-a26d-4d73-82a8-37e8e0aaa18a",
+      "names": [
+        {
+          "value": "Saur Boni /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "place": "Lubuk Pakam",
+          "tag": "DEAT"
         }
       ]
     }
