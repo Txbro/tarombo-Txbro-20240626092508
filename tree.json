@@ -1106,6 +1106,9 @@
       "childRefs": [
         {
           "ref": "I178*d8f75637-2f16-42e8-8aa9-3adaca559551"
+        },
+        {
+          "ref": "I182*45f24c49-7097-4724-942b-c5fba1ae93d4"
         }
       ],
       "husbandRefs": [
@@ -4882,6 +4885,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F56*3b35181b-adee-4d0a-a382-9ad5ddfad8cf"
+        }
+      ],
+      "id": "I182*45f24c49-7097-4724-942b-c5fba1ae93d4",
+      "names": [
+        {
+          "value": "Yehezkiel /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
