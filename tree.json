@@ -1148,6 +1148,9 @@
         },
         {
           "ref": "I191*f5e3f07b-43c3-4dd9-a930-9470cc54c80c"
+        },
+        {
+          "ref": "I192*2170f6af-c619-48aa-9dd9-71e3f2d1cca5"
         }
       ],
       "husbandRefs": [
@@ -5113,6 +5116,25 @@
       "names": [
         {
           "value": "Risma /Simarmata/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*e2fa765b-0f6e-47ee-85f6-11b01b9890e2"
+        }
+      ],
+      "id": "I192*2170f6af-c619-48aa-9dd9-71e3f2d1cca5",
+      "names": [
+        {
+          "value": "Nelly /Simarmata/"
         }
       ],
       "eventsFacts": [
