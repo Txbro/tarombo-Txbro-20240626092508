@@ -1186,6 +1186,19 @@
           "ref": "I179*365c40b4-0f1a-465a-ab12-61688e98ba55"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I185*df448571-4c7f-4e8a-baf5-01bc5f778f86"
+        }
+      ],
+      "id": "F60*3838aa56-090f-4abc-a01a-705c602a76b8",
+      "wifeRefs": [
+        {
+          "ref": "I184*6a02c994-3678-43a9-9225-5d816e2d4da0"
+        }
+      ]
     }
   ],
   "head": {
@@ -4938,6 +4951,11 @@
           "ref": "F56*3b35181b-adee-4d0a-a382-9ad5ddfad8cf"
         }
       ],
+      "fams": [
+        {
+          "ref": "F60*3838aa56-090f-4abc-a01a-705c602a76b8"
+        }
+      ],
       "id": "I184*6a02c994-3678-43a9-9225-5d816e2d4da0",
       "names": [
         {
@@ -4948,6 +4966,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F60*3838aa56-090f-4abc-a01a-705c602a76b8"
+        }
+      ],
+      "id": "I185*df448571-4c7f-4e8a-baf5-01bc5f778f86",
+      "names": [
+        {
+          "value": "Marga /Panjaitan/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
