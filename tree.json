@@ -1136,6 +1136,9 @@
         },
         {
           "ref": "I187*c9f2b08c-2763-4830-b6e2-197ccf734580"
+        },
+        {
+          "ref": "I188*8d571cf7-aaf4-4ecf-8b48-ab5e4fdf6c58"
         }
       ],
       "husbandRefs": [
@@ -5025,6 +5028,25 @@
       "names": [
         {
           "value": "Timbul /Simarmata/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*e2fa765b-0f6e-47ee-85f6-11b01b9890e2"
+        }
+      ],
+      "id": "I188*8d571cf7-aaf4-4ecf-8b48-ab5e4fdf6c58",
+      "names": [
+        {
+          "value": "Horas /Simarmata/"
         }
       ],
       "eventsFacts": [
