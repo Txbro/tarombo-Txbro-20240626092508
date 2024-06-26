@@ -1126,6 +1126,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I174*10117e42-9ef0-4e13-b6ca-909456caedda"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I173*098e3a28-6f35-406c-a720-68c28e8812d1"
@@ -4685,6 +4690,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F58*37305583-7f9f-477d-9a07-138fbc254458"
+        }
+      ],
+      "id": "I174*10117e42-9ef0-4e13-b6ca-909456caedda",
+      "names": [
+        {
+          "value": "Dewi /Sitanggang/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
