@@ -1156,6 +1156,19 @@
           "ref": "I172*f4902e78-5e67-4a76-ab9e-df332a5cc1aa"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I178*d8f75637-2f16-42e8-8aa9-3adaca559551"
+        }
+      ],
+      "id": "F59*220d4599-9c2b-4207-963f-c377d8cd9a12",
+      "wifeRefs": [
+        {
+          "ref": "I179*365c40b4-0f1a-465a-ab12-61688e98ba55"
+        }
+      ]
     }
   ],
   "head": {
@@ -4789,6 +4802,11 @@
           "ref": "F56*3b35181b-adee-4d0a-a382-9ad5ddfad8cf"
         }
       ],
+      "fams": [
+        {
+          "ref": "F59*220d4599-9c2b-4207-963f-c377d8cd9a12"
+        }
+      ],
       "id": "I178*d8f75637-2f16-42e8-8aa9-3adaca559551",
       "names": [
         {
@@ -4799,6 +4817,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F59*220d4599-9c2b-4207-963f-c377d8cd9a12"
+        }
+      ],
+      "id": "I179*365c40b4-0f1a-465a-ab12-61688e98ba55",
+      "names": [
+        {
+          "value": "Boru /Aritonang/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
