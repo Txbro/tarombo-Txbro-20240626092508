@@ -1109,6 +1109,9 @@
         },
         {
           "ref": "I182*45f24c49-7097-4724-942b-c5fba1ae93d4"
+        },
+        {
+          "ref": "I183*1510b510-60d2-48fa-a7b4-7366846a134a"
         }
       ],
       "husbandRefs": [
@@ -4898,6 +4901,25 @@
       "names": [
         {
           "value": "Yehezkiel /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F56*3b35181b-adee-4d0a-a382-9ad5ddfad8cf"
+        }
+      ],
+      "id": "I183*1510b510-60d2-48fa-a7b4-7366846a134a",
+      "names": [
+        {
+          "value": "Romualdo /Siboro/"
         }
       ],
       "eventsFacts": [
