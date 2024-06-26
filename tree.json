@@ -1079,6 +1079,9 @@
         },
         {
           "ref": "I168*9d7e92e2-dc83-4e81-a033-fce90f2f1360"
+        },
+        {
+          "ref": "I170*fb41eb5e-8216-4756-9d03-799f20c76374"
         }
       ],
       "husbandRefs": [
@@ -4557,6 +4560,25 @@
       "names": [
         {
           "value": "Sariani /Damanik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
+        }
+      ],
+      "id": "I170*fb41eb5e-8216-4756-9d03-799f20c76374",
+      "names": [
+        {
+          "value": "Tiomsi /Siboro/"
         }
       ],
       "eventsFacts": [
