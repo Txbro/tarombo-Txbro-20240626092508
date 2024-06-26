@@ -1130,6 +1130,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I186*5dad99e0-24e3-429c-8de8-baffd3b22ba3"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I171*cf6fca9d-8b7e-4990-8f00-62a7711ec7a1"
@@ -4979,6 +4984,25 @@
       "names": [
         {
           "value": "Marga /Panjaitan/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*e2fa765b-0f6e-47ee-85f6-11b01b9890e2"
+        }
+      ],
+      "id": "I186*5dad99e0-24e3-429c-8de8-baffd3b22ba3",
+      "names": [
+        {
+          "value": "Jonson /Simarmata/"
         }
       ],
       "eventsFacts": [
