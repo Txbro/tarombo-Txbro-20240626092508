@@ -1132,6 +1132,9 @@
         },
         {
           "ref": "I175*28e6e611-bf21-44aa-a40d-031afa7f50b3"
+        },
+        {
+          "ref": "I176*c32a3c73-5a2d-4f78-8560-89b09d7cf80c"
         }
       ],
       "husbandRefs": [
@@ -4731,6 +4734,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F58*37305583-7f9f-477d-9a07-138fbc254458"
+        }
+      ],
+      "id": "I176*c32a3c73-5a2d-4f78-8560-89b09d7cf80c",
+      "names": [
+        {
+          "value": "Maruba /Sitanggang/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
