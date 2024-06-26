@@ -1083,7 +1083,12 @@
           "ref": "I166*dd1d0347-a26d-4d73-82a8-37e8e0aaa18a"
         }
       ],
-      "id": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
+      "id": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce",
+      "wifeRefs": [
+        {
+          "ref": "I167*0acf1386-e56e-4e86-a430-ea23a3cfe431"
+        }
+      ]
     }
   ],
   "head": {
@@ -4476,6 +4481,29 @@
         {
           "place": "Lubuk Pakam",
           "tag": "DEAT"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
+        }
+      ],
+      "id": "I167*0acf1386-e56e-4e86-a430-ea23a3cfe431",
+      "names": [
+        {
+          "value": "Boru /Sagala/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
