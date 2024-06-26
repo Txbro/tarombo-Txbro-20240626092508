@@ -1142,6 +1142,9 @@
         },
         {
           "ref": "I189*4fe7ac6e-bfa5-4297-8bf8-775cca9f2856"
+        },
+        {
+          "ref": "I190*37ecd359-22a5-4993-aa1c-b94853075247"
         }
       ],
       "husbandRefs": [
@@ -5069,6 +5072,25 @@
       "names": [
         {
           "value": "Cipta /Simarmata/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*e2fa765b-0f6e-47ee-85f6-11b01b9890e2"
+        }
+      ],
+      "id": "I190*37ecd359-22a5-4993-aa1c-b94853075247",
+      "names": [
+        {
+          "value": "Jaya /Simarmata/"
         }
       ],
       "eventsFacts": [
