@@ -338,6 +338,9 @@
       "childRefs": [
         {
           "ref": "I47*478ea200-20a7-43b6-b852-6b1f884855c3"
+        },
+        {
+          "ref": "I177*bd8eb8e6-0e20-4215-bc66-316662ab5b94"
         }
       ],
       "husbandRefs": [
@@ -4753,6 +4756,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F16*64bbb951-a0b3-4ff8-a1c3-12bb4a93a248"
+        }
+      ],
+      "id": "I177*bd8eb8e6-0e20-4215-bc66-316662ab5b94",
+      "names": [
+        {
+          "value": "Buter /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
