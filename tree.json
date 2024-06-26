@@ -1129,6 +1129,9 @@
       "childRefs": [
         {
           "ref": "I174*10117e42-9ef0-4e13-b6ca-909456caedda"
+        },
+        {
+          "ref": "I175*28e6e611-bf21-44aa-a40d-031afa7f50b3"
         }
       ],
       "husbandRefs": [
@@ -4703,6 +4706,25 @@
       "names": [
         {
           "value": "Dewi /Sitanggang/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F58*37305583-7f9f-477d-9a07-138fbc254458"
+        }
+      ],
+      "id": "I175*28e6e611-bf21-44aa-a40d-031afa7f50b3",
+      "names": [
+        {
+          "value": "Butet /Sitanggang/"
         }
       ],
       "eventsFacts": [
