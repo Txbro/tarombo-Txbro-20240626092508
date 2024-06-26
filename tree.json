@@ -1112,6 +1112,9 @@
         },
         {
           "ref": "I183*1510b510-60d2-48fa-a7b4-7366846a134a"
+        },
+        {
+          "ref": "I184*6a02c994-3678-43a9-9225-5d816e2d4da0"
         }
       ],
       "husbandRefs": [
@@ -4926,6 +4929,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F56*3b35181b-adee-4d0a-a382-9ad5ddfad8cf"
+        }
+      ],
+      "id": "I184*6a02c994-3678-43a9-9225-5d816e2d4da0",
+      "names": [
+        {
+          "value": "Reni /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
