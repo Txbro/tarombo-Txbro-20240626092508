@@ -1161,6 +1161,9 @@
       "childRefs": [
         {
           "ref": "I180*80f0bbeb-f15d-4f4b-b6ed-b029d567389d"
+        },
+        {
+          "ref": "I181*4613167a-20f2-4db4-a009-9e3cfe8c9be9"
         }
       ],
       "husbandRefs": [
@@ -4854,6 +4857,25 @@
       "names": [
         {
           "value": "Carlisa /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F59*220d4599-9c2b-4207-963f-c377d8cd9a12"
+        }
+      ],
+      "id": "I181*4613167a-20f2-4db4-a009-9e3cfe8c9be9",
+      "names": [
+        {
+          "value": "Celine /Siboro/"
         }
       ],
       "eventsFacts": [
