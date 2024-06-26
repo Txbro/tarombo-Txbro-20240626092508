@@ -1133,6 +1133,9 @@
       "childRefs": [
         {
           "ref": "I186*5dad99e0-24e3-429c-8de8-baffd3b22ba3"
+        },
+        {
+          "ref": "I187*c9f2b08c-2763-4830-b6e2-197ccf734580"
         }
       ],
       "husbandRefs": [
@@ -5003,6 +5006,25 @@
       "names": [
         {
           "value": "Jonson /Simarmata/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*e2fa765b-0f6e-47ee-85f6-11b01b9890e2"
+        }
+      ],
+      "id": "I187*c9f2b08c-2763-4830-b6e2-197ccf734580",
+      "names": [
+        {
+          "value": "Timbul /Simarmata/"
         }
       ],
       "eventsFacts": [
