@@ -1076,6 +1076,9 @@
       "childRefs": [
         {
           "ref": "I25*dcf257e9-45fc-43e9-8452-456b19fcac3b"
+        },
+        {
+          "ref": "I168*9d7e92e2-dc83-4e81-a033-fce90f2f1360"
         }
       ],
       "husbandRefs": [
@@ -4504,6 +4507,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
+        }
+      ],
+      "id": "I168*9d7e92e2-dc83-4e81-a033-fce90f2f1360",
+      "names": [
+        {
+          "value": "Tarianus /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
