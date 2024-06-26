@@ -1139,6 +1139,9 @@
         },
         {
           "ref": "I188*8d571cf7-aaf4-4ecf-8b48-ab5e4fdf6c58"
+        },
+        {
+          "ref": "I189*4fe7ac6e-bfa5-4297-8bf8-775cca9f2856"
         }
       ],
       "husbandRefs": [
@@ -5047,6 +5050,25 @@
       "names": [
         {
           "value": "Horas /Simarmata/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*e2fa765b-0f6e-47ee-85f6-11b01b9890e2"
+        }
+      ],
+      "id": "I189*4fe7ac6e-bfa5-4297-8bf8-775cca9f2856",
+      "names": [
+        {
+          "value": "Cipta /Simarmata/"
         }
       ],
       "eventsFacts": [
