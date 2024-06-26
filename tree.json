@@ -1108,6 +1108,19 @@
           "ref": "I169*1327fd36-1134-4301-b0fe-78d3d5b463ac"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I171*cf6fca9d-8b7e-4990-8f00-62a7711ec7a1"
+        }
+      ],
+      "id": "F57*e2fa765b-0f6e-47ee-85f6-11b01b9890e2",
+      "wifeRefs": [
+        {
+          "ref": "I170*fb41eb5e-8216-4756-9d03-799f20c76374"
+        }
+      ]
     }
   ],
   "head": {
@@ -4575,6 +4588,11 @@
           "ref": "F55*62fe8b77-2d6d-438c-875e-e7ce4be21dce"
         }
       ],
+      "fams": [
+        {
+          "ref": "F57*e2fa765b-0f6e-47ee-85f6-11b01b9890e2"
+        }
+      ],
       "id": "I170*fb41eb5e-8216-4756-9d03-799f20c76374",
       "names": [
         {
@@ -4585,6 +4603,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F57*e2fa765b-0f6e-47ee-85f6-11b01b9890e2"
+        }
+      ],
+      "id": "I171*cf6fca9d-8b7e-4990-8f00-62a7711ec7a1",
+      "names": [
+        {
+          "value": "Marga /Simarmata/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
