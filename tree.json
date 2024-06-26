@@ -1158,6 +1158,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I180*80f0bbeb-f15d-4f4b-b6ed-b029d567389d"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I178*d8f75637-2f16-42e8-8aa9-3adaca559551"
@@ -4830,6 +4835,25 @@
       "names": [
         {
           "value": "Boru /Aritonang/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F59*220d4599-9c2b-4207-963f-c377d8cd9a12"
+        }
+      ],
+      "id": "I180*80f0bbeb-f15d-4f4b-b6ed-b029d567389d",
+      "names": [
+        {
+          "value": "Carlisa /Siboro/"
         }
       ],
       "eventsFacts": [
